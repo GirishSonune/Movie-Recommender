@@ -38,7 +38,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/GirishSonune/recommendation-system.git
+git clone https://github.com/GirishSonune/Movie-Recommender.git
 cd recommendation-system
 ```
 
